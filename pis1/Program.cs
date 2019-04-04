@@ -7,6 +7,7 @@ namespace pis1
 {
     class Program
     {
+        // bug 1.
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
